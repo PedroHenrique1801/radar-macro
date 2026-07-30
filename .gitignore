@@ -1,0 +1,12 @@
+# Variáveis de ambiente e chaves de API
+.env
+
+# Ambiente virtual Python
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Dados gerados (opcional manter ou não versionar)
+selic.csv
