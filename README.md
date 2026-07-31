@@ -74,10 +74,3 @@ Conjunto de 10 perguntas-teste executado contra a API em produção (`avaliacao_
 
 ## Decisões de arquitetura
 Bugs e decisões técnicas relevantes estão documentados em formato ADR em [`docs/decisions.md`](./docs/decisions.md).
-
-## Limitações e próximos passos
-- Hifenização de PDF pode ocasionalmente fragmentar palavras na extração
-- Avaliação cobre 10 casos — expansível para maior cobertura temática
-- Sem cache de embeddings para perguntas repetidas
-- Sem dashboard visual dos indicadores
-- Sem deploy público no momento
