@@ -2,7 +2,8 @@ import requests
 import PyPDF2
 import io
 
-
+def coletar_ata_copom():
+    print("Iniciando o download da Ata do Copom...")
     
     url_ata = "https://www.bcb.gov.br/content/copom/atascopom/Copom263-not20240619263.pdf"
     
