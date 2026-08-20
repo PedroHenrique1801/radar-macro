@@ -4,7 +4,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 
 load_dotenv()
-                                      
+      
 client = OpenAI()
 
 DB_HOST = os.getenv("DB_HOST", "localhost")
