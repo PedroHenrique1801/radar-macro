@@ -62,7 +62,7 @@ OPENAI_API_KEY=<sua_chave>
 ## Avaliação de qualidade
 Conjunto de 10 perguntas-teste executado contra a API em produção (`avaliacao_api.py`), não contra o banco isoladamente.
 
-**Resultado:** 10/10 — 100% de precisão na recuperação de contexto.
+**Resultado:** 10/10 - 100% de precisão na recuperação de contexto.
 
 ## Princípios de engenharia aplicados
 - **Separation of Concerns**: Controller → Service → acesso a dados via `JdbcTemplate`
