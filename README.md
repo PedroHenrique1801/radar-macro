@@ -1,6 +1,6 @@
 # Radar Macro - Assistente de Inteligência Financeira com RAG
 
-Responde perguntas em linguagem natural sobre política monetária brasileira, buscando o contexto certo em Atas do Copom e dados oficiais do Banco Central antes de gerar a resposta — com rastreabilidade das fontes usadas.
+Responde perguntas em linguagem natural sobre política monetária brasileira, buscando o contexto certo em Atas do Copom e dados oficiais do Banco Central antes de gerar a resposta, com rastreabilidade das fontes usadas.
 
 ## Arquitetura
 
