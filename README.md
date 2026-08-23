@@ -4,7 +4,7 @@ Responde perguntas em linguagem natural sobre política monetária brasileira, b
 
 ## Arquitetura
 
-![Arquitetura do Radar Macro](./docs/radar_macro_arquitetura.png)
+![Arquitetura do Radar Macro](./docs/radar_macro_arquitetura.jpg)
 
 > A etapa "Avaliação automatizada (QA)" no diagrama é um checkpoint de validação sob demanda, não uma etapa executada a cada requisição.
 
